@@ -1,0 +1,2 @@
+# elkstack
+containerised elk configuration 
